@@ -2,7 +2,7 @@
 Hey, guys! Here's a list of useful practices that would help you understand unit 2 
 
 ## Ruby Practices:
-**[Ruby-review-practice:](https://github.com/sei-jed-10/Ruby-review-practice)**
+1. **[Ruby-review-practice](https://github.com/sei-jed-10/Ruby-review-practice)**
 
 ---
 
