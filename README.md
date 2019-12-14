@@ -1,2 +1,12 @@
-# bonus-practice-unit-2
-Extra practice regarding Unit2
+# Unit2 Extra practice
+Hey, guys! Here's a list of useful practices that would help you understand unit 2 
+
+## Ruby Practices:
+**[Ruby-review-practice:](https://github.com/sei-jed-10/Ruby-review-practice)**
+
+---
+
+## Rails Practice:
+**[]()**
+
+---
