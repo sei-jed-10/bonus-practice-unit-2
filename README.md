@@ -6,7 +6,3 @@ Hey, guys! Here's a list of useful practices that would help you understand unit
 
 ---
 
-## Rails Practice:
-**[]()**
-
----
